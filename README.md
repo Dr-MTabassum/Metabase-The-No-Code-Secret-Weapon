@@ -6,7 +6,7 @@ This repository complements my Medium blog on Metabase—a powerful no-code anal
 
 ✨ **Published on Medium:** [Read the full blog here](https://medium.com/@mtabassum.dr/metabase-the-no-code-secret-weapon-thats-changing-how-we-see-data-6c54c47b9388)  
 
-📊 In this blog, I explore how **Metabase** is revolutionizing **no-code analytics**, making data accessible without SQL. Whether you're a business analyst, startup founder, or data enthusiast, this tool is changing the game!  
+📝 In this blog, I explore how **Metabase** is revolutionizing **no-code analytics**, making data accessible without SQL. Whether you're a business analyst, startup founder, or data enthusiast, this tool is changing the game!  
 
 ## 🔗 Connect With Me  
 - **LinkedIn** [my LinkedIn profile here](www.linkedin.com/in/maisha-tabassum-phd)
