@@ -9,7 +9,7 @@ This repository complements my Medium blog on Metabase—a powerful no-code anal
 📊 In this blog, I explore how **Metabase** is revolutionizing **no-code analytics**, making data accessible without SQL. Whether you're a business analyst, startup founder, or data enthusiast, this tool is changing the game!  
 
 ## 🔗 Connect With Me  
-- [LinkedIn](www.linkedin.com/in/maisha-tabassum-phd)
-- [GitHub](https://github.com/Dr-MTabassum) _(Projects coming soon—stay tuned!)_  
+- **LinkedIn**[my LinkedIn profile here](www.linkedin.com/in/maisha-tabassum-phd)
+- **GitHub**[my GitHub profile here](https://github.com/Dr-MTabassum) _(Projects coming soon—stay tuned!)_  
 
 Want to chat about **Metabase, BI tools, or no-code analytics**? Drop a comment on Medium or connect on LinkedIn! 🚀  
