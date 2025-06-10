@@ -10,6 +10,6 @@ This repository complements my Medium blog on Metabase—a powerful no-code anal
 
 ## 🔗 Connect With Me  
 - **LinkedIn** [my LinkedIn profile here](www.linkedin.com/in/maisha-tabassum-phd)
-- **GitHub** [my GitHub profile here](https://github.com/Dr-MTabassum) _(Projects coming soon—stay tuned!)_  
+- **GitHub** [my GitHub profile here](https://github.com/Dr-MTabassum) _(Projects will upload soon—stay tuned!)_  
 
 Want to chat about **Metabase, BI tools, or no-code analytics**? Drop a comment on Medium or connect on LinkedIn! 🚀  
