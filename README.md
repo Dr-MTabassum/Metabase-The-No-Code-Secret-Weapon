@@ -5,6 +5,7 @@ This repository complements my Medium blog on Metabase—a powerful no-code anal
 ## Why No-Code Analytics is the Future of Data Exploration: From Code to Clicks  
 
 ✨ **Published on Medium:** [Read the full blog here](https://medium.com/@mtabassum.dr/metabase-the-no-code-secret-weapon-thats-changing-how-we-see-data-6c54c47b9388)  
+✨ ** Also Published on Linkedin:** [Read the full blog here](https://www.linkedin.com/pulse/metabase-no-code-secret-weapon-thats-changing-how-we-tabassum-phd-lk3pc)  
 
 📜✍️ In this blog, I explore how **Metabase** is revolutionizing **no-code analytics**, making data accessible without SQL. Whether you're a business analyst, startup founder, or data enthusiast, this tool is changing the game!  
 
